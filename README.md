@@ -24,6 +24,8 @@ JavaScript (Vanilla)
 
 # 📸 Screenshot
 
+<img width="1396" height="777" alt="Image" src="https://github.com/user-attachments/assets/dc37cace-e5a5-4d70-9b77-e022c8bb959b" />
+
 # 🙋‍♂️ Author
 Made with ❤️ by Naveen
 LinkedIn | GitHub
